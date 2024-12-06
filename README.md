@@ -9,6 +9,12 @@ Simple javascript project deployment of a web application with a mongodb databas
 ## Deployment
 
 Apply the each YAML configurations for the namespace.
+
+```bash
+change the working directory where the configuration files exists
+
+cd k8demo
+```
 ```bash
 1.Applying mongo-config.yaml to the kubernetes cluster
 
